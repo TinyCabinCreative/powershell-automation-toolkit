@@ -99,3 +99,7 @@ Task creation
 Triggers
 
 Secure credential use
+
+**Refactored Code**
+
+Shared modules are used to centralize logging and validation logic, ensuring consistent behavior, safer execution, and easier maintenance across all automation scripts.
